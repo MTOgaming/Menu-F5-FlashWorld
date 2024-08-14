@@ -1,0 +1,1 @@
+print("bScripts - FiveM : https://discord.gg/6PF2tQmMWk for update")
